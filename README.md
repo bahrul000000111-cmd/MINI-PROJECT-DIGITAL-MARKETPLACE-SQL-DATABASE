@@ -18,6 +18,13 @@ Proyek ini merupakan bagian dari tugas **Full-Stack Web Development** dengan fok
 ### Diagram ERD
 ![Digital Marketplace ERD](assets/screenshots/erd-digital-marketplace.png)
 
+Berikut adalah link untuk mengakses diagram ERD dan dokumentasinya:
+-**ERD Diagram (dbdiagram.io)**-:
+https://dbdiagram.io/d/erd-digital-marketplace-69ac0d75a3f0aa31e122dfbe
+
+-**Dokumentasi ERD (dbdocs)**-:
+https://dbdocs.io/bahrul000000111/ERD-Digital-Marketplace?view=relationships
+
 ### Relasi Antar Tabel
 - **Users ↔ Product**: 1-to-Many (Satu seller bisa jual banyak produk)
 - **Product_Category ↔ Product**: 1-to-Many (Satu kategori bisa punya banyak produk)
