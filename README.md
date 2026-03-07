@@ -19,6 +19,7 @@ Proyek ini merupakan bagian dari tugas **Full-Stack Web Development** dengan fok
 ![Digital Marketplace ERD](assets/screenshots/erd-digital-marketplace.png)
 
 Berikut adalah link untuk mengakses diagram ERD dan dokumentasinya:
+
 -**ERD Diagram (dbdiagram.io)**-:
 https://dbdiagram.io/d/erd-digital-marketplace-69ac0d75a3f0aa31e122dfbe
 
