@@ -16,7 +16,7 @@ Proyek ini merupakan bagian dari tugas **Full-Stack Web Development** dengan fok
 | 4  | Transactions        | Data transaksi pembelian produk            | transaction_id | buyer_id, product_id |
 
 ### Diagram ERD
-![Digital Marketplace ERD](assets/erd-digital-marketplace.png)
+![Digital Marketplace ERD](assets/screenshots/erd-digital-marketplace.png)
 
 ### Relasi Antar Tabel
 - **Users ↔ Product**: 1-to-Many (Satu seller bisa jual banyak produk)
